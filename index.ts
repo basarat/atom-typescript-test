@@ -1,18 +1,4 @@
-
-class Bar {
-    constructor() {
-        console.log('bar');
-    }
-}
-
-function bar() {
-    new Bar();
-}
-
-function foo() {
-    console.log('foo');
-    bar();
-}
+import foo = require('./foo');
 
 export function activate(state) {
     console.log('start');
