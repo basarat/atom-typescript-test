@@ -1,0 +1,19 @@
+{
+  "name": "atom-typescript-test",
+  "version": "0.0.0",
+  "main": "./index",
+  "description": "Native atom typescript support test.",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "http://atom.io/packages/typescript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TypeStrong/atom-typescript.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atom-typescript/issues"
+  }
+}
