@@ -1,3 +1,5 @@
+/// <reference path="./typings/tsd"/>
+
 import foo = require('./foo');
 
 export function activate(state) {
